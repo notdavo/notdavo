@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm David Arce</h1>
 <h3 >Passionate frontend developer from Costa Rica</h3>
 
-- 👨‍💻 All of my projects are available at [www.davidarceportfolio.com](www.davidarceportfolio.com)
+- 👨‍💻 All of my projects are available at (www.davidarceportfolio.com)
 
 - 📫 How to reach me **arcerodriguezdavidjosue@gmail.com**
 
